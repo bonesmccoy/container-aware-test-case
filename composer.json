@@ -1,5 +1,5 @@
 {
-    "name" : "bonesmccoy/container-test",
+    "name" : "bonesmccoy/container-aware-test-case",
     "description": "container aware test case for symfony application",
     "keywords": ["test unit", "symfony", "container"],
     "license" : "MIT",
