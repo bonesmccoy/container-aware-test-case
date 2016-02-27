@@ -1,0 +1,21 @@
+{
+    "name" : "bonesmccoy/container-test",
+    "description": "container aware test case for symfony application",
+    "keywords": ["test unit", "symfony", "container"],
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name" : "Daniele Murroni",
+            "homepage" : "",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "symfony/symfony" : "2.8"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "" : "src/"
+        }
+    }
+}
